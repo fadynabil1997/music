@@ -1,0 +1,74 @@
+body{
+    background-image: url(n.png);
+ 
+    height: 1000px;
+    margin: 5px;
+    padding: 20px;
+}
+    .foda{
+        width: 100px;
+        height: 50px;
+         float: right;
+         border-radius: 20%;
+
+    }
+
+    .a{
+        background-image: url(n.png); 
+   width: 9%;
+border-radius: 20%;
+text-decoration: none;
+font-family: 'Lemonada', cursive;
+margin: 10px;
+float: right;
+color: whitesmoke;
+font-size: 15px;
+color: rgb(255, 255, 255);
+
+    }
+    .box{
+        float: left;
+     }
+
+.tamer{
+    background-image: url(n.png);
+     font-size: 10px;
+     display: block;
+     color: bisque;
+     margin: 40px;
+     padding: 30px; ;
+     font-family: 'Lemonada', cursive;
+     width: 80%;
+     height: 18%;
+     border-radius: 10px;
+}
+.tthh{
+    display: block;
+    float: right;
+    margin: -275px 500px 0px 0px ;
+}
+
+.tto{
+    display: block;
+    float: left;
+    margin: -180px 0px 0px -10px;
+}
+.ad{
+    display: block;
+    background-color :rgb(123, 130, 233);
+    width: 25%;
+    border: 5px solid rgb(123, 130, 233);    
+    border-radius: 15px;
+
+text-decoration: none;
+font-family: 'Reem Kufi', sans-serif;
+margin: 1px;
+float: right;
+color: whitesmoke;
+font-size: 30px;
+float: left;
+}
+.fola{
+    border-radius: 15px;
+    display: block;
+}
